@@ -1,0 +1,5 @@
+nombre,edad,ciudad
+Luis,30,Bogotá
+Ana,25,Medellín
+Carlos,40,Bogotá
+María,28,Cali

@@ -1,0 +1,19 @@
+buenos dias estrellitas
+el mundo les dice holaaa
+
+total 876
+-rw-rw-r-- 1 ezapataq ezapataq 405008 Jun 19 16:31 intro.python.funciones.html
+-rw-rw-r-- 1 ezapataq ezapataq 397368 Jun 19 16:31 intro.markdown.html
+-rw-rw-r-- 1 ezapataq ezapataq  87951 Jun 19 16:31 funciones.ipynb
+h:
+h:
+D
+A
+C
+D
+C
+D
+D
+D
+C
+-rw-rw-r-- 1 ezapataq ezapataq      0 Jun 20 14:05 Linux_P2.ipynb
